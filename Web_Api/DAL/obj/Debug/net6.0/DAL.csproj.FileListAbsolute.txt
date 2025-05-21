@@ -1,0 +1,28 @@
+Z:\פרויקט חנוכה\Web_Api\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\פרויקט חנוכה\Web_Api\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\פרויקט חנוכה\Web_Api\DAL\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט חנוכה\Web_Api\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט חנוכה\Web_Api\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\פרויקט חנוכה\Web_Api\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט חנוכה\Web_Api\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\פרויקט חנוכה\Web_Api\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\פרויקט חנוכה\Web_Api\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\פרויקט חנוכה\Web_Api\DAL\obj\Debug\net6.0\DAL.dll
+Z:\פרויקט חנוכה\Web_Api\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\פרויקט חנוכה\Web_Api\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\פרויקט חנוכה\Web_Api\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\פרויקט חנוכה\Web_Api\DAL\obj\Debug\net6.0\ref\DAL.dll
+Z:\Web_Api\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\Web_Api\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\Web_Api\DAL\bin\Debug\net6.0\DAL.dll
+Z:\Web_Api\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\Web_Api\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\Web_Api\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Web_Api\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\Web_Api\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\Web_Api\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\Web_Api\DAL\obj\Debug\net6.0\DAL.dll
+Z:\Web_Api\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\Web_Api\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\Web_Api\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\Web_Api\DAL\obj\Debug\net6.0\ref\DAL.dll

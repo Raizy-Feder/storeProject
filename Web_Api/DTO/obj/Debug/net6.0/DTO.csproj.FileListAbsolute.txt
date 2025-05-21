@@ -1,0 +1,30 @@
+Z:\פרויקט חנוכה\Web_Api\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\פרויקט חנוכה\Web_Api\DTO\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט חנוכה\Web_Api\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט חנוכה\Web_Api\DTO\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט חנוכה\Web_Api\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט חנוכה\Web_Api\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\פרויקט חנוכה\Web_Api\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט חנוכה\Web_Api\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\פרויקט חנוכה\Web_Api\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\פרויקט חנוכה\Web_Api\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\פרויקט חנוכה\Web_Api\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\פרויקט חנוכה\Web_Api\DTO\obj\Debug\net6.0\DTO.dll
+Z:\פרויקט חנוכה\Web_Api\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\פרויקט חנוכה\Web_Api\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\פרויקט חנוכה\Web_Api\DTO\obj\Debug\net6.0\ref\DTO.dll
+Z:\Web_Api\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\Web_Api\DTO\bin\Debug\net6.0\DTO.dll
+Z:\Web_Api\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\Web_Api\DTO\bin\Debug\net6.0\DAL.dll
+Z:\Web_Api\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\Web_Api\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\Web_Api\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Web_Api\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\Web_Api\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\Web_Api\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\Web_Api\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\Web_Api\DTO\obj\Debug\net6.0\DTO.dll
+Z:\Web_Api\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\Web_Api\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\Web_Api\DTO\obj\Debug\net6.0\ref\DTO.dll

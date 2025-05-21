@@ -1,0 +1,138 @@
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\appsettings.Development.json
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\appsettings.json
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.exe
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.deps.json
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.runtimeconfig.json
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.pdb
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Humanizer.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.csproj.AssemblyReference.cache
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.AssemblyInfoInputs.cache
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.AssemblyInfo.cs
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.csproj.CoreCompileInputs.cache
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.MvcApplicationPartsAssemblyInfo.cs
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.MvcApplicationPartsAssemblyInfo.cache
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\staticwebassets.build.json
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\staticwebassets.development.json
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\scopedcss\bundle\Web_Api.styles.css
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.csproj.CopyComplete
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\refint\Web_Api.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.pdb
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.genruntimeconfig.cache
+Z:\פרויקט חנוכה\Web_Api\Web_Api\obj\Debug\net6.0\ref\Web_Api.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\AutoMapper.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\BL.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\DAL.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\DTO.dll
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\BL.pdb
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\DAL.pdb
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\DTO.pdb
+Z:\פרויקט חנוכה\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.staticwebassets.runtime.json
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\appsettings.Development.json
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\appsettings.json
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.staticwebassets.runtime.json
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.exe
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.deps.json
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.runtimeconfig.json
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Web_Api.pdb
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\AutoMapper.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Humanizer.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\BL.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\DAL.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\DTO.dll
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\BL.pdb
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\DAL.pdb
+Z:\Web_Api\Web_Api\bin\Debug\net6.0\DTO.pdb
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.csproj.AssemblyReference.cache
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.AssemblyInfoInputs.cache
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.AssemblyInfo.cs
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.csproj.CoreCompileInputs.cache
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.MvcApplicationPartsAssemblyInfo.cs
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.MvcApplicationPartsAssemblyInfo.cache
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\scopedcss\bundle\Web_Api.styles.css
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.csproj.CopyComplete
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.dll
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\refint\Web_Api.dll
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.pdb
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\Web_Api.genruntimeconfig.cache
+Z:\Web_Api\Web_Api\obj\Debug\net6.0\ref\Web_Api.dll
